@@ -91,7 +91,7 @@
         "bh_PendingAlerts"                                          " 保留通知 "
         "bh_TwitchStreams"                                          " 生配信 "
         "bh_Contracts"                                              " 契約 "
-        "bh_News"                                                   " 最新あああ情報 "
+        "bh_News"                                                   " 最新情報 "
         "bh_DemoUI"                                                 " デモUI "
         "bh_CreateServer"                                           " サーバー作成 "
         "bh_WorkshopContributions"                                  " ワークショップ "
